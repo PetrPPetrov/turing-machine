@@ -1,0 +1,6 @@
+label a
+label b
+input variable abc
+input array N[20]
+let a = b + c
+stop
